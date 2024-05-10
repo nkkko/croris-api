@@ -1,0 +1,9 @@
+2024-05-09 21:33:05,934 - INFO - Fetched page 1 with status code 200
+2024-05-09 21:33:10,925 - INFO - Fetched page 2 with status code 200
+2024-05-09 21:33:14,102 - INFO - Fetched page 3 with status code 200
+2024-05-09 21:33:19,131 - INFO - Fetched page 4 with status code 200
+2024-05-09 21:33:24,153 - INFO - Program interrupted by the user.
+2024-05-09 21:33:24,167 - INFO - Data saved successfully to publications.pkl.
+2024-05-09 22:40:55,827 - INFO - Fetched page 1 with status code 200
+2024-05-09 22:40:59,760 - INFO - Fetched page 2 with status code 200
+2024-05-09 22:41:00,262 - INFO - Program interrupted by the user.
