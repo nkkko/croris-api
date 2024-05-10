@@ -1,5 +1,5 @@
-env
-.csv
-.gexf
-.pkl
-.log
+env/
+*.csv
+*.gexf
+*.pkl
+*.log
