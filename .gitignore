@@ -1,6 +1,5 @@
 myenv/
 env/
-*.csv
 *.gexf
 *.pkl
 *.graphml
