@@ -3,3 +3,5 @@ env/
 *.gexf
 *.pkl
 *.graphml
+*.db
+*.wal
